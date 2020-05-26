@@ -2,9 +2,14 @@
 A project about getting tweets about covid 19 and making a certain tranformation on it
 
 Technologies Used :
+
 jdk 8.
+
 apache kafka.
-apache spark
+
+apache spark.
+
+inteliji.
 
 
 1st : i created an app on twitter developer to get the desired data and tweets about covid 19.
